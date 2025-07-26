@@ -1,0 +1,27 @@
+# Núcleo científico
+numpy==1.22.1
+pandas==1.5.3
+scipy==1.10.1
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+statsmodels==0.13.5
+
+# Suporte adicional
+joblib==1.2.0
+pylab-sdk==0.2.0
+ipython==8.10.0
+dill==0.3.6
+pickle-mixin==1.0.2
+deprecat==2.1.3
+
+# Para gráficos e interatividade (se necessário)
+fastprogress==1.0.3
+
+# (opcional) PyMC3 e dependências para modelagem bayesiana
+pymc3==3.11.6
+arviz==0.12.1
+cachetools==4.2.2
+
+# Evita warnings
+warnings-filter==0.1.2
